@@ -1,0 +1,1 @@
+{"name":"taskflow-priority-manager","version":"1.0.0","description":"TaskFlow to-do manager with priority scheduling and push reminders","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","web-push":"^3.6.7"}}
